@@ -13,4 +13,6 @@ a button was added with complete animations, i simply need to link both componen
 
 
 ### How to run
-idk, I use npm and react, download the pack and use CMD (or any equiviilant) and write 'npm start' without the quotes and that should run it... hpoefully. 
+ LVisit the deployed page you'll find in "Github Pages"
+Or go to the following link: 
+https://alex-demha.github.io/ripple-effect/
