@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ripple-effect/static/css/main.83eb36ad.css",
+    "main.js": "/ripple-effect/static/js/main.3c591034.js",
+    "static/js/787.4af46e6d.chunk.js": "/ripple-effect/static/js/787.4af46e6d.chunk.js",
+    "static/media/logo.svg": "/ripple-effect/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ripple-effect/index.html",
+    "main.83eb36ad.css.map": "/ripple-effect/static/css/main.83eb36ad.css.map",
+    "main.3c591034.js.map": "/ripple-effect/static/js/main.3c591034.js.map",
+    "787.4af46e6d.chunk.js.map": "/ripple-effect/static/js/787.4af46e6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83eb36ad.css",
+    "static/js/main.3c591034.js"
+  ]
+}
