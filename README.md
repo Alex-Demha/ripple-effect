@@ -1,5 +1,5 @@
 ### What is Ripple?
-ripple is simply a small animation project that displays a .. well.. a ripple effect
+ripple is simply a small animation project that displays a .. well.. a ripple effect.
 its 4 circles inside of each other that light up sequentially.
 
 an effect i have seen in VideoGameDunkey's new puplisher site named 'BigMode', although mine has less circles and is slower in transition (both tweakable).
