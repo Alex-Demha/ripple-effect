@@ -10,3 +10,7 @@ P.S could have hipnotic effects so treat carefully :o
 
 ### Phase 2: Ripple Button.
 a button was added with complete animations, i simply need to link both components into one big one and display both ^_^
+
+
+### How to run
+idk, I use npm and react, download the pack and use CMD (or any equiviilant) and write 'npm start' without the quotes and that should run it... hpoefully. 
